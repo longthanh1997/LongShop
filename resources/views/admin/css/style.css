@@ -1,0 +1,23 @@
+
+
+
+
+.category_scroll, .brand_scroll{
+	min-height: 42px;
+    max-height: 200px;
+    overflow: auto;
+    padding: 0 .9em;
+    border: solid 1px #ddd;
+}
+.no-gutter {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  
+  .no-gutter > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  
+
+
